@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Preetham
 - 👀 I’m coder who loves to develop new things
 - 🌱 I’m currently learning Microservices
-- 💞️ I’m software engineer at Tata Consultancy Services
+- 💞️ I’m software engineer at Hitachi Energy
 - 📫 Reach me at LinkedIn: www.linkedin.com/in/preethamhd
 
 
