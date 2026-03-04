@@ -2,9 +2,7 @@
 
 🚀 I enjoy building things and turning ideas into real products.
 
-🌱 Currently building:
-• hostmyday
-• SuperPropertiesIndia
+🌱 Currently building hostmyday & SuperPropertiesIndia
 
 📫 Reach me at:
 www.linkedin.com/in/preethamhd
